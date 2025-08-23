@@ -1,3 +1,0 @@
-/home/roman/PetProjects/Isaac_CLI/build/CMakeFiles/isaac_cli.dir
-/home/roman/PetProjects/Isaac_CLI/build/CMakeFiles/edit_cache.dir
-/home/roman/PetProjects/Isaac_CLI/build/CMakeFiles/rebuild_cache.dir
