@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/isaac_cli.dir/src/http.cpp.o CMakeFiles/isaac_cli.dir/src/json.cpp.o CMakeFiles/isaac_cli.dir/src/logic.cpp.o CMakeFiles/isaac_cli.dir/src/main.cpp.o CMakeFiles/isaac_cli.dir/src/parser.cpp.o -o isaac_cli  -lxml2 /usr/lib/x86_64-linux-gnu/libcurl.so 
